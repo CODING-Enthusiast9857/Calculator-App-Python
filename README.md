@@ -1,6 +1,6 @@
 <html>
   <h1 align="center">Calculator App in Python</h1>
-  <img src="https://github.com/CODING-Enthusiast9857/Calculator-App-Python/blob/main/calculatorsplash.png" alt="calculator" height=180 width=180 align="center">
+  <img src="https://github.com/CODING-Enthusiast9857/Calculator-App-Python/blob/main/Calculator.png" alt="calculator" height=180 width=180 align="center">
   <h2>&#128204; About </h2>
   <ol>
     <li>This is simple calculator application made in python.</li>
