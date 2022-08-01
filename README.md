@@ -19,7 +19,7 @@
   
   <h2>&#128200; Libraries used </h2>
     <img src="https://github.com/kivy/kivy/blob/master/kivy/data/logo/kivy-icon-256.png" alt="kivy" height=100 width=100>
-    <img src="https://repository-images.githubusercontent.com/203940242/cbc61100-c8b2-11e9-87a0-72a1305a7736" alt="buildozer" height=200 width=300>
+    <img src="https://repository-images.githubusercontent.com/203940242/cbc61100-c8b2-11e9-87a0-72a1305a7736" alt="buildozer" height=150 width=300>
     
   <h2>&#128105; Created by </h2>
   <p>Created with &#129293; by 
