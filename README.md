@@ -23,7 +23,7 @@
     <li> It supports basic calculations such as addition, subtraction, multiplication, etc. </li>
   </ol>
   
-  <h2>&#128200; Libraries used </h2>
+  <h2>📚 Libraries used </h2>
     <ol>
       <li> This application is fully made in python language.</li>
       <li> Libraries used to develop this application are 👇
@@ -33,6 +33,9 @@
         </ol>
       </li>
     </ol>
+    
+  <h2>📝 License </h2>
+    <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     
   <h2>&#128105; Created by </h2>
   <p>Created with &#129293; by 
