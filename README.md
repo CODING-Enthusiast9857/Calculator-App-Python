@@ -34,7 +34,7 @@
       </li>
     </ol>
     
-  <h2>📝 License </h2>
+  <h2>📝 Licensed by </h2>
     <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     
   <h2>&#128105; Created by </h2>
