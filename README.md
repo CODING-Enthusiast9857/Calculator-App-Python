@@ -1,7 +1,7 @@
 <html>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="HTML tutorial" style="width:35px;height:35px;float:left;">&nbsp; Calculator App in Python</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="HTML tutorial" style="width:35px;height:35px;float:left;">&nbsp; Calculator Application in Python</h1>
   
   <h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="HTML tutorial" style="width:20px;height:20px;float:left;"> Presplash </h2>
   <img src="https://github.com/CODING-Enthusiast9857/Calculator-App-Python/blob/main/Calculator.png" alt="calculator" height=450 width=330>
