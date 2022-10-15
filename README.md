@@ -33,6 +33,14 @@
         </ol>
       </li>
     </ol>
+
+
+  <h2>🔗 IDE's used </h2>
+    <ol>
+      <li>IDLE - Python 3.10.8</li>
+      <li>Google Colab</li> 
+    </ol>
+
     
   <h2>📝 Licensed by </h2>
     <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
